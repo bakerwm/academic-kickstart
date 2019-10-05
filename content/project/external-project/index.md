@@ -1,14 +1,15 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: IBP
+summary: Institute of Biophysics, CAS
+
 tags:
-- Demo
+- ibp
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: http://www.ibp.cas.cn
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: IBP
   focal_point: Smart
 ---

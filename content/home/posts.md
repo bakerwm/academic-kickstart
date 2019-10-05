@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 51  # Order that this section will appear.
 
 title = "Recent Posts"
 subtitle = ""
@@ -31,6 +31,9 @@ subtitle = ""
     exclude_featured = false
   
 [design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
