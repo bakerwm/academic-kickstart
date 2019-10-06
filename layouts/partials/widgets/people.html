@@ -2,13 +2,15 @@
 {{ $page := .page }}
 
 <div class="row justify-content-center people-widget">
-  <!--{{ with $page.Title }}
+  <!--
+  {{ with $page.Title }}
   <div class="col-md-12 section-heading">
     <h1>{{ . | markdownify | emojify }}</h1>
     {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
   </div>
-  {{ end }}-->
-
+  {{ end }}
+  -->
+  
   {{ with $page.Content }}
   <div class="col-md-12">
     {{ . }}
@@ -50,4 +52,19 @@
 
   {{ end }}
   {{ end }}
+
+
+
+<div class="col-md-12">
+  <p></p>
+
+  <div style="font-size:1rem;margin-top:10px">
+    <i>
+      For a full list of our alumni, visitors and affiliates, visit our <a href="people">people</a> page.
+    </i>
+  </div>
+
+  <p></p>
+</div>
+
 </div>

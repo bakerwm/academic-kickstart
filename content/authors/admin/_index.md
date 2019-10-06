@@ -5,9 +5,11 @@ name: Nelson Bighetti
 # Username (this should match the folder name)
 authors:
 - admin
-
-# Is this the primary user of the site?
-superuser: true
+  
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.  
+user_groups:
+- Principal Investigator
 
 # Role/position
 role: Professor of Artificial Intelligence
@@ -23,7 +25,6 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
@@ -62,11 +63,9 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Principal Investigator
+
+# Is this the primary user of the site?
+superuser: true
 
 ---
 

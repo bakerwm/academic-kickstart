@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Name AAA
 
 # Username (this should match the folder name)
-authors:
-- admin
+bbb:
+- aaa
 
 # Is this the primary user of the site?
 superuser: true
