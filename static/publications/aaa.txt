@@ -1,0 +1,71 @@
+﻿Reference Type:  Journal Article
+Record Number: 189
+Author: Chen, J., Cai, Z., Bai, M., Yu, X., Zhang, C., Cao, C., Hu, X., Wang, L., Su, R., Wang, D., Wang, L., Yao, Y., Ye, R., Hou, B., Yu, Y., Yu, S., Li, J. and Xue, Y.
+Year: 2018
+Title: The RNA-binding protein ROD1/PTBP3 cotranscriptionally defines AID-loading sites to mediate antibody class switch in mammalian genomes
+Journal: Cell Res
+Volume: 28
+Issue: 10
+Pages: 981-995
+Epub Date: 2018/08/26
+Date: Oct
+Short Title: The RNA-binding protein ROD1/PTBP3 cotranscriptionally defines AID-loading sites to mediate antibody class switch in mammalian genomes
+ISSN: 1748-7838 (Electronic)
+1001-0602 (Linking)
+DOI: 10.1038/s41422-018-0076-9
+PMCID: PMC6170407
+Accession Number: 30143796
+Keywords: Amino Acid Sequence
+Animals
+B-Lymphocytes/cytology/drug effects/metabolism
+Cytidine Deaminase/chemistry/genetics/*metabolism
+*Genome
+HEK293 Cells
+Humans
+Hyper-IgM Immunodeficiency Syndrome/genetics/pathology
+Immunoglobulin Isotypes/genetics/*metabolism
+Lipopolysaccharides/pharmacology
+Mice
+Mice, Inbred C57BL
+Mice, Knockout
+Mutation
+Polypyrimidine Tract-Binding Protein/antagonists &
+inhibitors/genetics/*metabolism
+Protein Binding
+RNA/chemistry/metabolism
+RNA Interference
+RNA, Small Interfering/metabolism
+Abstract: Activation-induced cytidine deaminase (AID) mediates class switching by binding to a small fraction of single-stranded DNA (ssDNA) to diversify the antibody repertoire. The precise mechanism for highly selective AID targeting in the genome has remained elusive. Here, we report an RNA-binding protein, ROD1 (also known as PTBP3), that is both required and sufficient to define AID-binding sites genome-wide in activated B cells. ROD1 interacts with AID via an ultraconserved loop, which proves to be critical for the recruitment of AID to ssDNA using bi-directionally transcribed nascent RNAs as stepping stones. Strikingly, AID-specific mutations identified in human patients with hyper-IgM syndrome type 2 (HIGM2) completely disrupt the AID interacting surface with ROD1, thereby abolishing the recruitment of AID to immunoglobulin (Ig) loci. Together, our results suggest that bi-directionally transcribed RNA traps the RNA-binding protein ROD1, which serves as a guiding system for AID to load onto specific genomic loci to induce DNA rearrangement during immune responses.
+Notes: Chen, Juan
+Cai, Zhaokui
+Bai, Meizhu
+Yu, Xiaohua
+Zhang, Chao
+Cao, Changchang
+Hu, Xihao
+Wang, Lei
+Su, Ruibao
+Wang, Di
+Yao, Yingpeng
+Ye, Rong
+Hou, Baidong
+Yu, Yang
+Yu, Shuyang
+Li, Jinsong
+Xue, Yuanchao
+eng
+Research Support, Non-U.S. Gov't
+England
+Cell Res. 2018 Oct;28(10):981-995. doi: 10.1038/s41422-018-0076-9. Epub 2018 Aug 24.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/30143796
+Author Address: Key Laboratory of RNA Biology, CAS Center for Excellence in Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, 100101, Beijing, China.
+University of Chinese Academy of Sciences, 100049, Beijing, China.
+State Key Laboratory of Molecular Biology, Shanghai Key Laboratory of Molecular Andrology, CAS Center for Excellence in Molecular Cell Science, Shanghai Institute of Biochemistry and Cell Biology, Chinese Academy of Sciences; University of Chinese Academy of Sciences, 320 Yueyang Road, 200031, Shanghai, China.
+School of Life Science and Technology, ShanghaiTech University, 100 Haike Road, 201210, Shanghai, China.
+Key Laboratory of Infection and Immunity, Institute of Biophysics, Chinese Academy of Sciences, 100101, Beijing, China.
+College of Life Sciences, Institute for Conservation and Utilization of Agro-bioresources in Dabie Mountains, Xinyang Normal University, 464000, Xinyang, China.
+State Key Laboratory of Agrobiotechnology, College of Biological Sciences, China Agricultural University, Beijing, People's Republic of China.
+Key Laboratory of RNA Biology, CAS Center for Excellence in Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, 100101, Beijing, China. ycxue@ibp.ac.cn.
+University of Chinese Academy of Sciences, 100049, Beijing, China. ycxue@ibp.ac.cn.
+
+
