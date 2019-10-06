@@ -54,17 +54,18 @@ def avatar_picker(x, base_dir):
     path_backup = os.path.join(base_dir, 'static', 'img', 'people')
 
     # specific names
-    x_name = x + '.jpg'
-    x_file = os.path.join(path_default, x_name)
+    x_names = [x + '.jpg', x + '.png']
+    x_files = [os.path.join(path_default, i) for i in x_names]
+    x_files = [i for i in x_files if os.path.exists(i)]
 
     # pick a random pick in backup
-    bk_files = [i for i in os.listdir(path_backup) if i.endswith('.jpg')]
+    bk_files = [i for i in os.listdir(path_backup) if i.endswith('.jpg') or i.endswith('.png')]
     rnd_num = random.choice(range(len(bk_files) - 1))
     bk_file = os.path.join(path_backup, bk_files[rnd_num])
 
     # output
-    if os.path.exists(x_file):
-        img_out = x_file # the first one
+    if len(x_files) > 0:
+        img_out = x_files[0] # the first one
     else:
         img_out = bk_file
 
@@ -380,7 +381,6 @@ def main():
 
     # static_dir
     static_dir = os.path.join(base_dir, 'static', 'people')
-
     # author_dir
     author_dir = os.path.join(base_dir, 'content', 'authors')
 
@@ -392,24 +392,26 @@ def main():
         # source files
         xlsx_file = os.path.join(static_dir, f)
         shortname, md_text = people_md(xlsx_file, 'en')
-        jpg_file = avatar_picker(shortname, base_dir)
+        img_file = avatar_picker(shortname, base_dir)
+        img_ext = os.path.splitext(img_file)[1]
 
         # target files
         people_dir = os.path.join(author_dir, shortname)
         md_file = os.path.join(people_dir, '_index.md')
-        avatar_file = os.path.join(people_dir, 'avatar.jpg')
+        avatar_file = os.path.join(people_dir, 'avatar' + img_ext)
         # check dir
         if not os.path.exists(people_dir):
             os.makedirs(people_dir)
 
+        # copy avatar
+        shutil.copyfile(img_file, avatar_file)
+        print(img_file)
         # write md
         if update_all or not os.path.exists(md_file):
-            print('{:>15s} | {}'.format(shortname, 'member added,updated '.ljust(50, '.')))
+            print('{:>15s} | {} Done'.format(shortname, 'people added,updated '.ljust(50, '.')))
             with open(md_file, 'wt') as fo:
                 fo.write(md_text)
 
-        # copy avatar
-        shutil.copyfile(jpg_file, avatar_file)
 
 
 if __name__ == '__main__':
