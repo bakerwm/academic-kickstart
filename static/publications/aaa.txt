@@ -69,3 +69,493 @@ Key Laboratory of RNA Biology, CAS Center for Excellence in Biomacromolecules, I
 University of Chinese Academy of Sciences, 100049, Beijing, China. ycxue@ibp.ac.cn.
 
 
+Reference Type:  Journal Article
+Record Number: 192
+Author: Gu, J., Wang, M., Yang, Y., Qiu, D., Zhang, Y., Ma, J., Zhou, Y., Hannon, G. J. and Yu, Y.
+Year: 2018
+Title: GoldCLIP: Gel-omitted Ligation-dependent CLIP
+Journal: Genomics Proteomics Bioinformatics
+Volume: 16
+Issue: 2
+Pages: 136-143
+Epub Date: 2018/05/02
+Date: Apr
+Short Title: GoldCLIP: Gel-omitted Ligation-dependent CLIP
+ISSN: 2210-3244 (Electronic)
+1672-0229 (Linking)
+DOI: 10.1016/j.gpb.2018.04.003
+PMCID: PMC6112358
+Accession Number: 29709556
+Keywords: Binding Sites
+Cell Line
+Heterogeneous-Nuclear Ribonucleoproteins/isolation & purification/metabolism
+Humans
+Immunoprecipitation/*methods
+Polypyrimidine Tract-Binding Protein/isolation & purification/metabolism
+RNA/isolation & purification/*metabolism
+RNA-Binding Proteins/isolation & purification/*metabolism
+*clip
+*HaloTag
+*ptb
+*RNA binding protein
+*UV crosslinking
+Abstract: Protein-RNA interaction networks are essential to understand gene regulation control. Identifying binding sites of RNA-binding proteins (RBPs) by the UV-crosslinking and immunoprecipitation (CLIP) represents one of the most powerful methods to map protein-RNA interactions in vivo. However, the traditional CLIP protocol is technically challenging, which requires radioactive labeling and suffers from material loss during PAGE-membrane transfer procedures. Here we introduce a super-efficient CLIP method (GoldCLIP) that omits all gel purification steps. This nonisotopic method allows us to perform highly reproducible CLIP experiments with polypyrimidine tract-binding protein (PTB), a classical RBP in human cell lines. In principle, our method guarantees sequencing library constructions, providing the protein of interest can be successfully crosslinked to RNAs in living cells. GoldCLIP is readily applicable to diverse proteins to uncover their endogenous RNA targets.
+Notes: Gu, Jiaqi
+Wang, Ming
+Yang, Yang
+Qiu, Ding
+Zhang, Yiqun
+Ma, Jinbiao
+Zhou, Yu
+Hannon, Gregory J
+Yu, Yang
+eng
+Research Support, Non-U.S. Gov't
+China
+Genomics Proteomics Bioinformatics. 2018 Apr;16(2):136-143. doi: 10.1016/j.gpb.2018.04.003. Epub 2018 Apr 28.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/29709556
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6112358/pdf/main.pdf
+'File' Attachments: internal-pdf://2692382797/Gu-2018-GoldCLIP_ Gel-omitted Ligation-depende.pdf
+Author Address: State Key Laboratory of Genetic Engineering, Department of Biochemistry, School of Life Sciences, Fudan University, Shanghai 200438, China; CAS Key Laboratory of RNA Biology, Institute of Biophysics, Chinese Academy of Sciences, Beijing 100101, China.
+CAS Key Laboratory of RNA Biology, Institute of Biophysics, Chinese Academy of Sciences, Beijing 100101, China.
+Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, Wuhan University, Wuhan 430072, China.
+State Key Laboratory of Genetic Engineering, Department of Biochemistry, School of Life Sciences, Fudan University, Shanghai 200438, China. Electronic address: majb@fudan.edu.cn.
+Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, Wuhan University, Wuhan 430072, China. Electronic address: yu.zhou@whu.edu.cn.
+Cancer Research UK, Li Ka Shing Centre, University of Cambridge, Cambridge CB2 ORE, United Kingdom. Electronic address: greg.hannon@cruk.cam.ac.uk.
+CAS Key Laboratory of RNA Biology, Institute of Biophysics, Chinese Academy of Sciences, Beijing 100101, China. Electronic address: yuyang@ibp.ac.cn.
+
+
+Reference Type:  Journal Article
+Record Number: 193
+Author: Gu, J., Wang, M., Yang, Y., Qiu, D., Zhang, Y., Ma, J., Zhou, Y., Hannon, G. J. and Yu, Y.
+Year: 2018
+Title: Corrigendum to "GoldCLIP: Gel-omitted Ligation-dependent CLIP" [Genomics Proteomics Bioinformatics 16 (2) (2018) 136-143]
+Journal: Genomics Proteomics Bioinformatics
+Volume: 16
+Issue: 3
+Pages: 221-222
+Epub Date: 2018/07/25
+Date: Jun
+Short Title: Corrigendum to "GoldCLIP: Gel-omitted Ligation-dependent CLIP" [Genomics Proteomics Bioinformatics 16 (2) (2018) 136-143]
+ISSN: 2210-3244 (Electronic)
+1672-0229 (Linking)
+DOI: 10.1016/j.gpb.2018.07.001
+PMCID: PMC6076381
+Accession Number: 30037509
+Notes: Gu, Jiaqi
+Wang, Ming
+Yang, Yang
+Qiu, Ding
+Zhang, Yiqun
+Ma, Jinbiao
+Zhou, Yu
+Hannon, Gregory J
+Yu, Yang
+eng
+Published Erratum
+China
+Genomics Proteomics Bioinformatics. 2018 Jun;16(3):221-222. doi: 10.1016/j.gpb.2018.07.001. Epub 2018 Jul 20.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/30037509
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6076381/pdf/main.pdf
+'File' Attachments: internal-pdf://0376145636/Gu-2018-Corrigendum to _GoldCLIP_ Gel-omitted.pdf
+Author Address: State Key Laboratory of Genetic Engineering, Department of Biochemistry, School of Life Sciences, Fudan University, Shanghai 200438, China; CAS Key Laboratory of RNA Biology, Institute of Biophysics, Chinese Academy of Sciences, Beijing 100101, China.
+CAS Key Laboratory of RNA Biology, Institute of Biophysics, Chinese Academy of Sciences, Beijing 100101, China.
+Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, Wuhan University, Wuhan 430072, China.
+State Key Laboratory of Genetic Engineering, Department of Biochemistry, School of Life Sciences, Fudan University, Shanghai 200438, China. Electronic address: majb@fudan.edu.cn.
+Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, Wuhan University, Wuhan 430072, China. Electronic address: yu.zhou@whu.edu.cn.
+Cancer Research UK, Li Ka Shing Centre, University of Cambridge, Cambridge CB2 ORE, United Kingdom. Electronic address: greg.hannon@cruk.cam.ac.uk.
+CAS Key Laboratory of RNA Biology, Institute of Biophysics, Chinese Academy of Sciences, Beijing 100101, China. Electronic address: yuyang@ibp.ac.cn.
+
+
+Reference Type:  Journal Article
+Record Number: 188
+Author: Maroney, P. A., Yu, Y., Fisher, J. and Nilsen, T. W.
+Year: 2006
+Title: Evidence that microRNAs are associated with translating messenger RNAs in human cells
+Journal: Nat Struct Mol Biol
+Volume: 13
+Issue: 12
+Pages: 1102-7
+Epub Date: 2006/11/28
+Date: Dec
+Short Title: Evidence that microRNAs are associated with translating messenger RNAs in human cells
+ISSN: 1545-9993 (Print)
+1545-9985 (Linking)
+DOI: 10.1038/nsmb1174
+Accession Number: 17128271
+Keywords: Cytoplasm/metabolism
+HeLa Cells
+Humans
+MicroRNAs/*genetics/*metabolism
+Polyribosomes/metabolism
+Protein Biosynthesis/*genetics
+RNA, Messenger/genetics/*metabolism
+Abstract: MicroRNAs (miRNAs) regulate gene expression post-transcriptionally by binding the 3' untranslated regions of target mRNAs. We examined the subcellular distribution of three miRNAs in exponentially growing HeLa cells and found that the vast majority are associated with mRNAs in polysomes. Several lines of evidence indicate that most of these mRNAs, including a known miRNA-regulated target (KRAS mRNA), are actively being translated.
+Notes: Maroney, Patricia A
+Yu, Yang
+Fisher, Jesse
+Nilsen, Timothy W
+eng
+Research Support, N.I.H., Extramural
+Nat Struct Mol Biol. 2006 Dec;13(12):1102-7. doi: 10.1038/nsmb1174. Epub 2006 Nov 26.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/17128271
+Author Address: Center for RNA Molecular Biology and Department of Biochemistry, Case Western Reserve University School of Medicine, W127 10900 Euclid Avenue, Cleveland, Ohio 44106-4973, USA.
+
+
+Reference Type:  Journal Article
+Record Number: 195
+Author: Muerdter, F., Guzzardo, P. M., Gillis, J., Luo, Y., Yu, Y., Chen, C., Fekete, R. and Hannon, G. J.
+Year: 2013
+Title: A genome-wide RNAi screen draws a genetic framework for transposon control and primary piRNA biogenesis in Drosophila
+Journal: Mol Cell
+Volume: 50
+Issue: 5
+Pages: 736-48
+Epub Date: 2013/05/15
+Date: Jun 6
+Short Title: A genome-wide RNAi screen draws a genetic framework for transposon control and primary piRNA biogenesis in Drosophila
+ISSN: 1097-4164 (Electronic)
+1097-2765 (Linking)
+DOI: 10.1016/j.molcel.2013.04.006
+PMCID: PMC3724422
+Accession Number: 23665228
+Keywords: Animals
+*DNA Transposable Elements
+Drosophila Proteins/genetics/*metabolism
+Drosophila melanogaster/*genetics/metabolism
+Female
+Gene Knockdown Techniques
+Gene Silencing
+Genome, Insect
+Ovary/physiology
+RNA Interference
+RNA, Small Interfering/genetics/*metabolism
+Reproducibility of Results
+SUMO-1 Protein/genetics/metabolism
+Abstract: A large fraction of our genome consists of mobile genetic elements. Governing transposons in germ cells is critically important, and failure to do so compromises genome integrity, leading to sterility. In animals, the piRNA pathway is the key to transposon constraint, yet the precise molecular details of how piRNAs are formed and how the pathway represses mobile elements remain poorly understood. In an effort to identify general requirements for transposon control and components of the piRNA pathway, we carried out a genome-wide RNAi screen in Drosophila ovarian somatic sheet cells. We identified and validated 87 genes necessary for transposon silencing. Among these were several piRNA biogenesis factors. We also found CG3893 (asterix) to be essential for transposon silencing, most likely by contributing to the effector step of transcriptional repression. Asterix loss leads to decreases in H3K9me3 marks on certain transposons but has no effect on piRNA levels.
+Notes: Muerdter, Felix
+Guzzardo, Paloma M
+Gillis, Jesse
+Luo, Yicheng
+Yu, Yang
+Chen, Caifu
+Fekete, Richard
+Hannon, Gregory J
+eng
+5R01GM062534/GM/NIGMS NIH HHS/
+T32 GM065094/GM/NIGMS NIH HHS/
+R01 GM067761/GM/NIGMS NIH HHS/
+R01 GM062534/GM/NIGMS NIH HHS/
+Howard Hughes Medical Institute/
+R37 GM062534/GM/NIGMS NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Mol Cell. 2013 Jun 6;50(5):736-48. doi: 10.1016/j.molcel.2013.04.006. Epub 2013 May 9.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/23665228
+Author Address: Watson School of Biological Sciences, Howard Hughes Medical Institute, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, USA.
+
+
+Reference Type:  Journal Article
+Record Number: 196
+Author: Vagin, V. V., Yu, Y., Jankowska, A., Luo, Y., Wasik, K. A., Malone, C. D., Harrison, E., Rosebrock, A., Wakimoto, B. T., Fagegaltier, D., Muerdter, F. and Hannon, G. J.
+Year: 2013
+Title: Minotaur is critical for primary piRNA biogenesis
+Journal: RNA
+Volume: 19
+Issue: 8
+Pages: 1064-77
+Epub Date: 2013/06/22
+Date: Aug
+Short Title: Minotaur is critical for primary piRNA biogenesis
+ISSN: 1469-9001 (Electronic)
+1355-8382 (Linking)
+DOI: 10.1261/rna.039669.113
+PMCID: PMC3708527
+Accession Number: 23788724
+Keywords: Amino Acid Sequence
+Animals
+Animals, Genetically Modified
+Argonaute Proteins/genetics/metabolism
+Catalytic Domain
+DNA Transposable Elements/genetics
+Drosophila Proteins/genetics/*metabolism
+Drosophila melanogaster/genetics/*metabolism
+Female
+Genes, Insect
+Glycerol-3-Phosphate O-Acyltransferase/genetics/*metabolism
+Male
+Molecular Sequence Data
+Mutation
+Phospholipids/metabolism
+RNA, Small Interfering/*biosynthesis/genetics
+Signal Transduction
+Drosophila
+Gpat
+piRNA
+transposon
+Abstract: Piwi proteins and their associated small RNAs are essential for fertility in animals. In part, this is due to their roles in guarding germ cell genomes against the activity of mobile genetic elements. piRNA populations direct Piwi proteins to silence transposon targets and, as such, form a molecular code that discriminates transposons from endogenous genes. Information ultimately carried by piRNAs is encoded within genomic loci, termed piRNA clusters. These give rise to long, single-stranded, primary transcripts that are processed into piRNAs. Despite the biological importance of this pathway, neither the characteristics that define a locus as a source of piRNAs nor the mechanisms that catalyze primary piRNA biogenesis are well understood. We searched an EMS-mutant collection annotated for fertility phenotypes for genes involved in the piRNA pathway. Twenty-seven homozygous sterile strains showed transposon-silencing defects. One of these, which strongly impacted primary piRNA biogenesis, harbored a causal mutation in CG5508, a member of the Drosophila glycerol-3-phosphate O-acetyltransferase (GPAT) family. These enzymes catalyze the first acylation step on the path to the production of phosphatidic acid (PA). Though this pointed strongly to a function for phospholipid signaling in the piRNA pathway, a mutant form of CG5508, which lacks the GPAT active site, still functions in piRNA biogenesis. We have named this new biogenesis factor Minotaur.
+Notes: Vagin, Vasily V
+Yu, Yang
+Jankowska, Anna
+Luo, Yicheng
+Wasik, Kaja A
+Malone, Colin D
+Harrison, Emily
+Rosebrock, Adam
+Wakimoto, Barbara T
+Fagegaltier, Delphine
+Muerdter, Felix
+Hannon, Gregory J
+eng
+R01 GM062534/GM/NIGMS NIH HHS/
+R37 GM062534/GM/NIGMS NIH HHS/
+5R01GM062534/GM/NIGMS NIH HHS/
+Howard Hughes Medical Institute/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+RNA. 2013 Aug;19(8):1064-77. doi: 10.1261/rna.039669.113. Epub 2013 Jun 20.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/23788724
+Author Address: Watson School of Biological Sciences, Howard Hughes Medical Institute, Cold Spring Harbor Laboratory, Cold Spring Harbor, NewYork 11724, USA.
+
+
+Reference Type:  Journal Article
+Record Number: 194
+Author: Yang, F., Lei, Y., Zhou, M., Yao, Q., Han, Y., Wu, X., Zhong, W., Zhu, C., Xu, W., Tao, R., Chen, X., Lin, D., Rahman, K., Tyagi, R., Habib, Z., Xiao, S., Wang, D., Yu, Y., Chen, H., Fu, Z. and Cao, G.
+Year: 2018
+Title: Development and application of a recombination-based library versus library high- throughput yeast two-hybrid (RLL-Y2H) screening system
+Journal: Nucleic Acids Res
+Volume: 46
+Issue: 3
+Pages: e17
+Epub Date: 2017/11/23
+Date: Feb 16
+Short Title: Development and application of a recombination-based library versus library high- throughput yeast two-hybrid (RLL-Y2H) screening system
+ISSN: 1362-4962 (Electronic)
+0305-1048 (Linking)
+DOI: 10.1093/nar/gkx1173
+PMCID: PMC5815087
+Accession Number: 29165646
+Keywords: Animals
+Autophagy-Related Proteins/classification/*genetics/metabolism
+Bacterial Proteins/classification/*genetics/metabolism
+CRISPR-Cas Systems
+Deoxyribonucleases, Type II Site-Specific/chemistry
+Gene Editing/methods
+*Gene Library
+Genes, Reporter
+High-Throughput Nucleotide Sequencing
+*High-Throughput Screening Assays
+Host-Pathogen Interactions/*genetics
+Integrases/genetics/metabolism
+Luminescent Proteins/genetics/metabolism
+Mice
+Mycobacterium tuberculosis/*genetics/metabolism
+Phagosomes/metabolism/microbiology
+Plasmids/chemistry/metabolism
+Protein Interaction Mapping/methods
+RAW 264.7 Cells
+Recombination, Genetic
+Siphoviridae/chemistry
+Two-Hybrid System Techniques
+Abstract: Protein-protein interaction (PPI) network maintains proper function of all organisms. Simple high-throughput technologies are desperately needed to delineate the landscape of PPI networks. While recent state-of-the-art yeast two-hybrid (Y2H) systems improved screening efficiency, either individual colony isolation, library preparation arrays, gene barcoding or massive sequencing are still required. Here, we developed a recombination-based 'library vs library' Y2H system (RLL-Y2H), by which multi-library screening can be accomplished in a single pool without any individual treatment. This system is based on the phiC31 integrase-mediated integration between bait and prey plasmids. The integrated fragments were digested by MmeI and subjected to deep sequencing to decode the interaction matrix. We applied this system to decipher the trans-kingdom interactome between Mycobacterium tuberculosis and host cells and further identified Rv2427c interfering with the phagosome-lysosome fusion. This concept can also be applied to other systems to screen protein-RNA and protein-DNA interactions and delineate signaling landscape in cells.
+Notes: Yang, Fang
+Lei, Yingying
+Zhou, Meiling
+Yao, Qili
+Han, Yichao
+Wu, Xiang
+Zhong, Wanshun
+Zhu, Chenghang
+Xu, Weize
+Tao, Ran
+Chen, Xi
+Lin, Da
+Rahman, Khaista
+Tyagi, Rohit
+Habib, Zeshan
+Xiao, Shaobo
+Wang, Dang
+Yu, Yang
+Chen, Huanchun
+Fu, Zhenfang
+Cao, Gang
+eng
+Research Support, Non-U.S. Gov't
+England
+Nucleic Acids Res. 2018 Feb 16;46(3):e17. doi: 10.1093/nar/gkx1173.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/29165646
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5815087/pdf/gkx1173.pdf
+'File' Attachments: internal-pdf://4290246060/Yang-2018-Development and application of a rec.pdf
+Author Address: National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural University, Wuhan 430070, China.
+College of Plant Science and Technology, Huazhong Agricultural University, Wuhan 430070, China.
+State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural University, Wuhan 430070, China.
+College of Veterinary Medicine, Huazhong Agricultural University, Wuhan 430070, China.
+College of Informatics, Huazhong Agricultural University, Wuhan 430070, China.
+Key Laboratory of RNA Biology, Institute of Biophysics, CAS, Beijing 100101, China.
+Departments of Pathology, College of Veterinary Medicine, University of Georgia, Athens, GA 30602, USA.
+Bio-Medical Center, Huazhong Agricultural University, Wuhan 430070, China.
+Key Laboratory of Development of Veterinary Diagnostic Products, Ministry of Agriculture, Huazhong Agricultural University, Wuhan 430070, China.
+
+
+Reference Type:  Journal Article
+Record Number: 191
+Author: Yu, Y., Gu, J., Jin, Y., Luo, Y., Preall, J. B., Ma, J., Czech, B. and Hannon, G. J.
+Year: 2015
+Title: Panoramix enforces piRNA-dependent cotranscriptional silencing
+Journal: Science
+Volume: 350
+Issue: 6258
+Pages: 339-42
+Epub Date: 2015/10/17
+Date: Oct 16
+Short Title: Panoramix enforces piRNA-dependent cotranscriptional silencing
+ISSN: 1095-9203 (Electronic)
+0036-8075 (Linking)
+DOI: 10.1126/science.aab0700
+PMCID: PMC4722808
+Accession Number: 26472911
+Keywords: Animals
+Argonaute Proteins/metabolism
+DNA Transposable Elements/genetics
+Drosophila Proteins/genetics/*metabolism
+Drosophila melanogaster/*genetics
+Gene Knockdown Techniques
+*Gene Silencing
+Nuclear Proteins/genetics/*metabolism
+RNA, Messenger/*metabolism
+RNA, Small Interfering/*metabolism
+RNA-Binding Proteins
+Transcription, Genetic
+Abstract: The Piwi-interacting RNA (piRNA) pathway is a small RNA-based innate immune system that defends germ cell genomes against transposons. In Drosophila ovaries, the nuclear Piwi protein is required for transcriptional silencing of transposons, though the precise mechanisms by which this occurs are unknown. Here we show that the CG9754 protein is a component of Piwi complexes that functions downstream of Piwi and its binding partner, Asterix, in transcriptional silencing. Enforced tethering of CG9754 to nascent messenger RNA transcripts causes cotranscriptional silencing of the source locus and the deposition of repressive chromatin marks. We have named CG9754 "Panoramix," and we propose that this protein could act as an adaptor, scaffolding interactions between the piRNA pathway and the general silencing machinery that it recruits to enforce transcriptional repression.
+Notes: Yu, Yang
+Gu, Jiaqi
+Jin, Ying
+Luo, Yicheng
+Preall, Jonathan B
+Ma, Jinbiao
+Czech, Benjamin
+Hannon, Gregory J
+eng
+R37 GM062534/GM/NIGMS NIH HHS/
+5R37GM062534-15/GM/NIGMS NIH HHS/
+Howard Hughes Medical Institute/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Science. 2015 Oct 16;350(6258):339-42. doi: 10.1126/science.aab0700.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/26472911
+https://science.sciencemag.org/content/sci/350/6258/339.full.pdf
+'File' Attachments: internal-pdf://3768545656/Yu-2015-Panoramix enforces piRNA-dependent cot.pdf
+Author Address: Watson School of Biological Sciences, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, USA. Howard Hughes Medical Institute, Chevy Chase, MD 20815, USA.
+Watson School of Biological Sciences, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, USA. Howard Hughes Medical Institute, Chevy Chase, MD 20815, USA. State Key Laboratory of Genetic Engineering, Collaborative Innovation Center of Genetics and Development, Department of Biochemistry, School of Life Sciences, Fudan University, Shanghai, China.
+Watson School of Biological Sciences, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, USA.
+State Key Laboratory of Genetic Engineering, Collaborative Innovation Center of Genetics and Development, Department of Biochemistry, School of Life Sciences, Fudan University, Shanghai, China.
+Watson School of Biological Sciences, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, USA. Howard Hughes Medical Institute, Chevy Chase, MD 20815, USA. Cancer Research UK Cambridge Institute, Li Ka Shing Centre, University of Cambridge, Cambridge, UK.
+Watson School of Biological Sciences, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, USA. Howard Hughes Medical Institute, Chevy Chase, MD 20815, USA. Cancer Research UK Cambridge Institute, Li Ka Shing Centre, University of Cambridge, Cambridge, UK. The New York Genome Center, 101 Avenue of the Americas, New York, NY 10013, USA. greg.hannon@cruk.cam.ac.uk.
+
+
+Reference Type:  Journal Article
+Record Number: 197
+Author: Yu, Y., Maroney, P. A., Denker, J. A., Zhang, X. H., Dybkov, O., Luhrmann, R., Jankowsky, E., Chasin, L. A. and Nilsen, T. W.
+Year: 2008
+Title: Dynamic regulation of alternative splicing by silencers that modulate 5' splice site competition
+Journal: Cell
+Volume: 135
+Issue: 7
+Pages: 1224-36
+Epub Date: 2008/12/27
+Date: Dec 26
+Short Title: Dynamic regulation of alternative splicing by silencers that modulate 5' splice site competition
+ISSN: 1097-4172 (Electronic)
+0092-8674 (Linking)
+DOI: 10.1016/j.cell.2008.10.046
+PMCID: PMC2645801
+Accession Number: 19109894
+Keywords: *Alternative Splicing
+Exons
+*Gene Expression Regulation
+Genetic Techniques
+HeLa Cells
+Humans
+Models, Biological
+*RNA Splice Sites
+Abstract: Alternative splicing makes a major contribution to proteomic diversity in higher eukaryotes with approximately 70% of genes encoding two or more isoforms. In most cases, the molecular mechanisms responsible for splice site choice remain poorly understood. Here, we used a randomization-selection approach in vitro to identify sequence elements that could silence a proximal strong 5' splice site located downstream of a weakened 5' splice site. We recovered two exonic and four intronic motifs that effectively silenced the proximal 5' splice site both in vitro and in vivo. Surprisingly, silencing was only observed in the presence of the competing upstream 5' splice site. Biochemical evidence strongly suggests that the silencing motifs function by altering the U1 snRNP/5' splice site complex in a manner that impairs commitment to specific splice site pairing. The data indicate that perturbations of non-rate-limiting step(s) in splicing can lead to dramatic shifts in splice site choice.
+Notes: Yu, Yang
+Maroney, Patricia A
+Denker, John A
+Zhang, Xiang H-F
+Dybkov, Olexandr
+Luhrmann, Reinhard
+Jankowsky, Eckhard
+Chasin, Lawrence A
+Nilsen, Timothy W
+eng
+R01 AI028799-19/AI/NIAID NIH HHS/
+R01 GM031528-20/GM/NIGMS NIH HHS/
+R01 GM067700/GM/NIGMS NIH HHS/
+R01 GM067700-07/GM/NIGMS NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Cell. 2008 Dec 26;135(7):1224-36. doi: 10.1016/j.cell.2008.10.046.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/19109894
+Author Address: Center for RNA Molecular Biology, Case Western Reserve University, Cleveland, OH 44106, USA.
+
+
+Reference Type:  Journal Article
+Record Number: 190
+Author: Zhang, Y., Liu, W., Li, R., Gu, J., Wu, P., Peng, C., Ma, J., Wu, L., Yu, Y. and Huang, Y.
+Year: 2018
+Title: Structural insights into the sequence-specific recognition of Piwi by Drosophila Papi
+Journal: Proc Natl Acad Sci U S A
+Volume: 115
+Issue: 13
+Pages: 3374-3379
+Epub Date: 2018/03/14
+Date: Mar 27
+Short Title: Structural insights into the sequence-specific recognition of Piwi by Drosophila Papi
+ISSN: 1091-6490 (Electronic)
+0027-8424 (Linking)
+DOI: 10.1073/pnas.1717116115
+PMCID: PMC5879672
+Accession Number: 29531043
+Keywords: Amino Acid Sequence
+Animals
+Argonaute Proteins/*chemistry/genetics/metabolism
+Carrier Proteins/*chemistry/genetics/metabolism
+Crystallography, X-Ray
+Drosophila Proteins/*chemistry/genetics/metabolism
+Drosophila melanogaster/genetics/growth & development/*metabolism
+Female
+*Infertility
+RNA, Fungal/*chemistry/genetics/metabolism
+Sequence Homology
+*3'-end trimming
+*Papi
+*Piwi
+*eTud domain
+*piRNA biogenesis
+Abstract: The Tudor domain-containing (Tdrd) family proteins play a critical role in transposon silencing in animal gonads by recognizing the symmetrically dimethylated arginine (sDMA) on the (G/A)R motif of the N-terminal of PIWI family proteins via the eTud domains. Papi, also known as "Tdrd2," is involved in Zucchini-mediated PIWI-interacting RNA (piRNA) 3'-end maturation. Intriguingly, a recent study showed that, in papi mutant flies, only Piwi-bound piRNAs increased in length, and not Ago3-bound or Aub-bound piRNAs. However, the molecular and structural basis of the Papi-Piwi complex is still not fully understood, which limits mechanistic understanding of the function of Papi in piRNA biogenesis. In the present study, we determined the crystal structures of Papi-eTud in the apo form and in complex with a peptide containing unmethylated or dimethylated R10 residues. Structural and biochemical analysis showed that the Papi interaction region on the Drosophila Piwi contains an RGRRR motif (R7-R11) distinct from the consensus (G/A)R motif recognized by canonical eTud. Mass spectrometry results indicated that Piwi is the major binding partner of Papi in vivo. The papi mutant flies suffered from both fertility and transposon-silencing defects, supporting the important role conferred to Papi in piRNA 3' processing through direct interaction with Piwi proteins.
+Notes: Zhang, Yuhan
+Liu, Weiwei
+Li, Ronghong
+Gu, Jiaqi
+Wu, Ping
+Peng, Chao
+Ma, Jinbiao
+Wu, Ligang
+Yu, Yang
+Huang, Ying
+eng
+Research Support, Non-U.S. Gov't
+Proc Natl Acad Sci U S A. 2018 Mar 27;115(13):3374-3379. doi: 10.1073/pnas.1717116115. Epub 2018 Mar 12.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/29531043
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5879672/pdf/pnas.201717116.pdf
+'File' Attachments: internal-pdf://3718669072/Zhang-2018-Structural insights into the sequen.pdf
+Author Address: State Key Laboratory of Molecular Biology, Shanghai Key Laboratory of Molecular Andrology, CAS Center for Excellence in Molecular Cell Science, Shanghai Institute of Biochemistry and Cell Biology, Chinese Academy of Sciences, Shanghai 200031, China.
+University of Chinese Academy of Sciences, Beijing 100049, China.
+Shanghai Science Research Center, Chinese Academy of Sciences, Shanghai 201204, China.
+Key Laboratory of RNA Biology, Institute of Biophysics, Chinese Academy of Sciences, Beijing 100101, China.
+State Key Laboratory of Genetic Engineering, Collaborative Innovation Center for Genetics and Development, Department of Biochemistry, School of Life Sciences, Fudan University, Shanghai 200438, China.
+National Facility for Protein Science in Shanghai, Zhangjiang Laboratory, Shanghai 201210, China.
+State Key Laboratory of Molecular Biology, Shanghai Key Laboratory of Molecular Andrology, CAS Center for Excellence in Molecular Cell Science, Shanghai Institute of Biochemistry and Cell Biology, Chinese Academy of Sciences, Shanghai 200031, China; huangy@sibcb.ac.cn.
+
+
