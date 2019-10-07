@@ -194,16 +194,19 @@ article .article-metadata {
   display: block;
   position: relative;
   overflow: hidden;
+  line-height: 100%;
 }
 
 .li-cite-author {
   font-size: 0.9em;
   color: inherit;
+  line-height: 50%;
 }
 
 .li-cite-author a {
   color: inherit;
   font-weight: bold;
+  line-height: 50%;
 }
 
 .dark .li-cite-author a {

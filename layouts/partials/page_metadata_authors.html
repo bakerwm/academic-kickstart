@@ -5,6 +5,7 @@
   {{ range $index, $value := . }}
     {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy (. | urlize)) -}}
     {{- $name := $profile_page.Params.name | default ($value|markdownify) -}}
+    {{- $label := $profile_page.Params.name | default ("non-group"|markdownify) -}}
     {{- if gt $index 0 }}, {{ end -}}
     <span>
       <!--
@@ -13,13 +14,13 @@
       {{- else -}}
         {{$name}}
       {{- end -}}
-      -->
-      {{ if not (eq $name "Chen J") }}
-        {{ $name }}
-        <a href="{{ $profile_page }}">{{$name}}</a>
+      -->      
+      {{ if or (in $name "Yu Yang") (in $name "Yang Yu") }}
+        <a href="{{ $profile_page.RelPermalink }}">{{ $name }}</a>
       {{ else }}
         {{ $name }}
       {{ end }}
     </span>
   {{- end -}}
 {{ end }}
+
