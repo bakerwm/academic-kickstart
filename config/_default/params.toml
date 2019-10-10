@@ -98,7 +98,7 @@ address = {street = "15 Datun Road", city = "Beijing", region = "BJ", postcode =
 coordinates = {latitude = "40.002325", longitude = "116.371627"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 6 and go to Office 6619 on Floor 6"
+directions = "Room 6619"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -106,7 +106,7 @@ directions = "Enter Building 6 and go to Office 6619 on Floor 6"
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/wangm08"
+# appointment_url = "https://calendly.com/wangm08"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
