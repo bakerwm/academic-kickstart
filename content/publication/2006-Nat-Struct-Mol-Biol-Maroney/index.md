@@ -1,7 +1,7 @@
 ---
 featured: false
 title: "Evidence that microRNAs are associated with translating messenger RNAs in human cells"
-authors: [Maroney P. A, Yu Y, Fisher J, Nilsen T. W.]
+authors: [Maroney P A, Yu Y, Fisher J, Nilsen T W]
 date: 2006-11-28
 doi: "10.1038/nsmb1174"
 

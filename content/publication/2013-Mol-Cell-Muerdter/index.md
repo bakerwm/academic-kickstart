@@ -1,7 +1,7 @@
 ---
 featured: false
 title: "A genome-wide RNAi screen draws a genetic framework for transposon control and primary piRNA biogenesis in Drosophila"
-authors: [Muerdter F, Guzzardo P. M, Gillis J, Luo Y, Yu Y, Chen C, Fekete R, Hannon G. J.]
+authors: [Muerdter F, Guzzardo P M, Gillis J, Luo Y, Yu Y, Chen C, Fekete R, Hannon G J]
 date: 2013-05-15
 doi: "10.1016/j.molcel.2013.04.006"
 

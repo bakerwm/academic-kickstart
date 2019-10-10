@@ -1,7 +1,7 @@
 ---
 featured: false
 title: "Dynamic regulation of alternative splicing by silencers that modulate 5' splice site competition"
-authors: [Yu Y, Maroney P. A, Denker J. A, Zhang X. H, Dybkov O, Luhrmann R, Jankowsky E, Chasin L. A, Nilsen T. W.]
+authors: [Yu Y, Maroney P A, Denker J A, Zhang X H, Dybkov O, Luhrmann R, Jankowsky E, Chasin L A, Nilsen T W]
 date: 2008-12-27
 doi: "10.1016/j.cell.2008.10.046"
 

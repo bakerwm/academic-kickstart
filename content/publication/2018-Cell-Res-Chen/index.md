@@ -1,7 +1,7 @@
 ---
 featured: false
 title: "The RNA-binding protein ROD1/PTBP3 cotranscriptionally defines AID-loading sites to mediate antibody class switch in mammalian genomes"
-authors: [Chen J, Cai Z, Bai M, Yu X, Zhang C, Cao C, Hu X, Wang L, Su R, Wang D, Wang L, Yao Y, Ye R, Hou B, Yu Y, Yu S, Li J, Xue Y.]
+authors: [Chen J, Cai Z, Bai M, Yu X, Zhang C, Cao C, Hu X, Wang L, Su R, Wang D, Wang L, Yao Y, Ye R, Hou B, Yu Y, Yu S, Li J, Xue Y]
 date: 2018-08-26
 doi: "10.1038/s41422-018-0076-9"
 

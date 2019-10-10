@@ -1,7 +1,7 @@
 ---
 featured: false
 title: "Minotaur is critical for primary piRNA biogenesis"
-authors: [Vagin V. V, Yu Y, Jankowska A, Luo Y, Wasik K. A, Malone C. D, Harrison E, Rosebrock A, Wakimoto B. T, Fagegaltier D, Muerdter F, Hannon G. J.]
+authors: [Vagin V V, Yu Y, Jankowska A, Luo Y, Wasik K A, Malone C D, Harrison E, Rosebrock A, Wakimoto B T, Fagegaltier D, Muerdter F, Hannon G J]
 date: 2013-06-22
 doi: "10.1261/rna.039669.113"
 

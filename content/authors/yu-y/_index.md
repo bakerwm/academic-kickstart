@@ -23,7 +23,6 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
@@ -66,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Principal Investigator
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 featured: false
 title: "Development and application of a recombination-based library versus library high- throughput yeast two-hybrid (RLL-Y2H) screening system"
-authors: [Yang F, Lei Y, Zhou M, Yao Q, Han Y, Wu X, Zhong W, Zhu C, Xu W, Tao R, Chen X, Lin D, Rahman K, Tyagi R, Habib Z, Xiao S, Wang D, Yu Y, Chen H, Fu Z, Cao G.]
+authors: [Yang F, Lei Y, Zhou M, Yao Q, Han Y, Wu X, Zhong W, Zhu C, Xu W, Tao R, Chen X, Lin D, Rahman K, Tyagi R, Habib Z, Xiao S, Wang D, Yu Y, Chen H, Fu Z, Cao G]
 date: 2017-11-23
 doi: "10.1093/nar/gkx1173"
 

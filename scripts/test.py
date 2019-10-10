@@ -7,7 +7,7 @@ save output
 import os, sys, re
 
 
-
+# generator
 def get_blocks(lines, sep='Reference Type'):
     """Split lines into blocks by `sep`
     each one means one block/record
@@ -190,6 +190,7 @@ class Endnote(object):
         name_str = name_str.replace(' and ', ', ') # remove and
         name_list = name_str.split('., ')
         name_list = [i.replace(',', '') for i in name_list]
+        name_list = [i.replace('.', '') for i in name_list]
         dx['name_line'] = '[' + ', '.join(name_list) + ']'
 
         # extra urls
@@ -345,7 +346,7 @@ class Endnote(object):
                             doi = line.split('=')[1]
                             doi = doi.strip().strip('{').strip(',').strip('}')
                             db[doi] = group
-                            print(doi)
+                            # print(doi)
         except:
             print('bib file not found: {}'.format(self.bib))
 
@@ -366,6 +367,8 @@ class Endnote(object):
         # if duplicated, add "-PMC6170407" suffix
 
         """
+        target_dirname = os.path.basename(self.target_dir)
+
         # check existence
         if not os.path.exists(self.target_dir):
             os.makedirs(self.target_dir)
@@ -373,11 +376,11 @@ class Endnote(object):
         # save md
         md_text = self.get_md_text()
         if not os.path.exists(self.target_md) or self.overwrite:
-            print('write publication')
+            print('write publication: ' + target_dirname)
             with open(self.target_md, 'wt') as fo:
                 fo.write('\n'.join(md_text) + '\n')
         else:
-            print('skip file')
+            print('skip file: ' + target_dirname)
 
 
     def to_bib_file(self):
@@ -386,7 +389,7 @@ class Endnote(object):
         """
         d = self.d # all fields
         doi = d.get('doi', '1')
-        print('doi-from: {}'.format(doi))
+        # print('doi-from: {}'.format(doi))
 
         # bib dict
         db = self.bib_reader()
@@ -409,7 +412,8 @@ def main():
     endnote_all(txt, bib)
 
 
-
+if __name__ == '__main__':
+    main()
 
 
 
@@ -420,31 +424,6 @@ def main():
 #         for i, record in enumerate(get_blocks(f, 'Reference Type'), start=1):
 #             print('Group {}'.format(i))
 #             print(record[1])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-if __name__ == '__main__':
-    main()
-
-
-
-
 
 
 # from StackOverflow

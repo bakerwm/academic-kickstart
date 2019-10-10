@@ -1,7 +1,7 @@
 ---
 featured: false
 title: "GoldCLIP: Gel-omitted Ligation-dependent CLIP"
-authors: [Gu J, Wang M, Yang Y, Qiu D, Zhang Y, Ma J, Zhou Y, Hannon G. J, Yu Y.]
+authors: [Gu J, Wang M, Yang Y, Qiu D, Zhang Y, Ma J, Zhou Y, Hannon G J, Yu Y]
 date: 2018-05-02
 doi: "10.1016/j.gpb.2018.04.003"
 

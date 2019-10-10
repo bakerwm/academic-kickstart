@@ -1,7 +1,7 @@
 ---
 featured: false
 title: "Structural insights into the sequence-specific recognition of Piwi by Drosophila Papi"
-authors: [Zhang Y, Liu W, Li R, Gu J, Wu P, Peng C, Ma J, Wu L, Yu Y, Huang Y.]
+authors: [Zhang Y, Liu W, Li R, Gu J, Wu P, Peng C, Ma J, Wu L, Yu Y, Huang Y]
 date: 2018-03-14
 doi: "10.1073/pnas.1717116115"
 

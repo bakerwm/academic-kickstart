@@ -1,7 +1,7 @@
 ---
 featured: false
 title: "Panoramix enforces piRNA-dependent cotranscriptional silencing"
-authors: [Yu Y, Gu J, Jin Y, Luo Y, Preall J. B, Ma J, Czech B, Hannon G. J.]
+authors: [Yu Y, Gu J, Jin Y, Luo Y, Preall J B, Ma J, Czech B, Hannon G J]
 date: 2015-10-17
 doi: "10.1126/science.aab0700"
 
